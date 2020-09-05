@@ -1,0 +1,7 @@
+{
+    "database": {
+      "url": "mongodb+srv://denis:1111@cluster0.vkwym.mongodb.net/<dbname>?retryWrites=true&w=majority",
+      "options": { "useNewUrlParser": true, "useUnifiedTopology": true }
+    },
+    "domain": "localhost"
+  }
